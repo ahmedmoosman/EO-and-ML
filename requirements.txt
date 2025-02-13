@@ -2,3 +2,7 @@ pandas
 dash
 geopandas
 plotly
+earthengine-api
+geemap
+rasterio
+plotnine
